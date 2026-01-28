@@ -2,5 +2,5 @@
   { "produceName": "Beans", "tonnage": 50, "cost": 2000 },
   { "produceName": "Corn", "tonnage": 100, "cost": 1500 },
   { "produceName": "Wheat", "tonnage": 75, "cost": 1800 },
-  { "produceName": "rice", "tonnage": 5, "cost": 1800 },
+  { "produceName": "rice", "tonnage": 5, "cost": 1800 }
 ]
